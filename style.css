@@ -3,7 +3,7 @@
 body {
     text-align: center;
     font-family: "Mitr", sans-serif;
-    background-color: antiquewhite;
+    background-image: linear-gradient(to top, #bde0fe, #FFFFFF);
 }
 
 img {
