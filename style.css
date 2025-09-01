@@ -5,3 +5,8 @@ body {
     font-family: "Mitr", sans-serif;
     background-color: antiquewhite;
 }
+
+img {
+    width: 180px;
+    height: auto;
+}
